@@ -1,4 +1,4 @@
-// mod models;
+mod models;
 mod routes;
 
 use actix_cors::Cors;
